@@ -1,19 +1,18 @@
 <h2 align="left">Olá 👋! Eu sou o Victor Hugo</h2>
 
 ###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorHugo1204&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHugo1204&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="200" src="https://th.bing.com/th/id/R.33a46f727dbe790d436616a1f56fce9c?rik=vlh9YE%2fpQ6YaLw&pid=ImgRaw&r=0"  />
 
 ###
 
-<p align="center">Acabei de me formar em técnico de informática e sou um desenvolvedor full-stack focado em desenvolvimento web.</p>&nbsp;
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorHugo1204&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHugo1204&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&custom_title=Linguagens%20mais%20usadas" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="left">Acabei de me formar em técnico de informática e sou um desenvolvedor full-stack focado em desenvolvimento web.</p>&nbsp;
 
 
 ## Minhas Habilidades
