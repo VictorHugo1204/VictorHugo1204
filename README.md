@@ -13,7 +13,7 @@
 
 ###
 
-<p align="center">Acabei de me formar em técnico de informática e sou um desenvolvedor full-stack.</p>&nbsp;
+<p align="center">Acabei de me formar em técnico de informática e sou um desenvolvedor full-stack focado em desenvolvimento web.</p>&nbsp;
 
 
 ## Minhas Habilidades
